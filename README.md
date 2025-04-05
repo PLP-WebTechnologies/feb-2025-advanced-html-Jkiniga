@@ -36,7 +36,7 @@ Happy Coding! 💻✨
   <title>Contact List and Registration</title>
 </head>
 <body>
-  <!-- Ordered list with Roman numerals -->
+  <!-- Steps to Follow -->
   <section>
     <h2>Steps to Follow</h2>
     <ol type="I">
@@ -48,16 +48,17 @@ Happy Coding! 💻✨
     </ol>
   </section>
 
-  <!-- External image from Pexels -->
+  <!-- Sample Image -->
   <section>
     <h2>Sample Image</h2>
     <img src="https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg" alt="Sample from Pexels">
   </section>
 
-  <!-- Table of 5 contacts -->
+  <!-- Contact List -->
   <section>
     <h2>Contact List</h2>
     <table>
+      <caption>Contact List</caption>
       <thead>
         <tr>
           <th>Name</th>
@@ -101,7 +102,7 @@ Happy Coding! 💻✨
     </table>
   </section>
 
-  <!-- Registration form -->
+  <!-- Registration Form -->
   <section>
     <h2>Registration Form</h2>
     <form action="#" method="post">
@@ -151,5 +152,3 @@ Happy Coding! 💻✨
   </section>
 </body>
 </html>
-
-
